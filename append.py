@@ -1,3 +1,4 @@
+
 #First open the file in append mode
 text_file=open("olympic_games.txt", "a")
 
